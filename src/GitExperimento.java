@@ -6,6 +6,8 @@ public class GitExperimento {
 		System.out.println("Hello World");
 		
 		System.out.println("Salve do Andre");
+		
+		System.out.println("Salve do Lucas!");
 
 	}
 
