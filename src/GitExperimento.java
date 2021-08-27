@@ -11,6 +11,8 @@ public class GitExperimento {
 		System.out.println("Salve do Lucas!");
 		
 		System.out.println("Eu tenho só 18 anos todo dia crescendo, sou o Lucas~");
+		
+		System.out.println("Pao de mel e muito bom!");
 	}
 
 }
